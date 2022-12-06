@@ -1,4 +1,4 @@
-package arg.ds.app;
+package arg.ds.app.models;
 
 public class Hdd {
 
